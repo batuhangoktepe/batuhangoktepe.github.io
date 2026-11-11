@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["T6J255TF84.com.halil.leyvia"],
+        "components": [
+          { "/": "/leyvia/reto", "comment": "Reto links (docs/en/19-reto-plan.md)" },
+          { "/": "/leyvia/reto/*", "comment": "Reto links (docs/en/19-reto-plan.md)" }
+        ]
+      }
+    ]
+  }
+}

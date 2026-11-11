@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.halil.leyvia",
+      "sha256_cert_fingerprints": [
+        "6B:B7:0D:2A:EB:19:F0:29:10:26:1F:EA:51:33:65:94:6C:3A:74:2C:D5:69:97:B4:94:93:C8:53:D1:AA:8A:1B",
+        "14:96:27:64:07:C3:E8:EE:A8:BE:1F:E0:23:E3:CC:1C:73:05:5E:F1:E4:82:F1:5C:7F:80:88:8A:E2:F8:EC:AD",
+        "CE:05:C5:98:8B:1D:2F:89:65:A3:49:E7:4D:5D:E2:A5:1B:D8:4D:AA:FD:B4:9F:31:46:0D:F0:7C:23:CF:5B:98"
+      ]
+    }
+  }
+]
